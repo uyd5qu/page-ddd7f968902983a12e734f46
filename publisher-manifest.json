@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f6c17362142e58149e496967",
+  "owner": "uyd5qu",
+  "repo": "page-ddd7f968902983a12e734f46",
+  "title": "轻云(Qingyun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ddd7f968902983a12e734f46",
+      "a": "轻云(Qingyun)",
+      "b": "2027官方最新地址导航",
+      "entity": "轻云(Qingyun)",
+      "brand": "轻云(Qingyun)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2308c7b5a9427a1df33527781f20739eb340183d03b34f90abf1fae984d58a1f",
+      "content": {
+        "primary_entity": "轻云(Qingyun)",
+        "keyword1": "轻云(Qingyun)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_HERO_SUBTITLE": "轻云节点，畅连全球网络",
+          "AI_HERO_INTRO": "轻云(Qingyun)专注于为跨境办公、流媒体访问与游戏联机提供海外网络加速服务。通过分布广泛的线路节点与多平台客户端，用户可按设备数量、流量需求和预算选择合适套餐，快速完成订阅配置并连接。",
+          "AI_VISUAL_TITLE": "轻云多端加速",
+          "AI_HIGHLIGHT_1": "每月百GB起步流量",
+          "AI_HIGHLIGHT_2": "多设备同时在线支持",
+          "AI_HIGHLIGHT_3": "全节点流媒体解锁",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付与年付灵活可选，年付更划算。用户可根据设备数量、每月流量和线路偏好选择套餐，并通过主流客户端导入订阅，适配跨境访问、流媒体与游戏加速等场景。",
+          "AI_FEATURES_TITLE": "轻云服务特点",
+          "AI_FEATURES_INTRO": "围绕套餐匹配、设备数量与订阅周期三个维度，帮助快速确定合适方案。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按同时在线的设备数量匹配对应档位。",
+          "AI_FEATURE_TITLE_2": "流量与线路分层",
+          "AI_FEATURE_TEXT_2": "月流量从100GB到1000GB逐档提升，旗舰版配备IPLC专线，团队版提供VIP高带宽节点。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "各档套餐均支持月付与年付，年付价格约为月付的十个月费用，长期使用成本更低。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月，年付分别¥150、¥350、¥850。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "轻云订阅可导入常见代理客户端，按设备系统选择对应版本即可使用。Windows可选Clash Verge、v2rayN；macOS可选ClashX Pro、Stash；Android可选Clash Meta for Android、v2rayNG；iOS可选Shadowrocket、Stash；路由器可选OpenWrt配合PassWall或OpenClash。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，按顺序操作即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定档位，并确认月付或年付。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型是否满足所选套餐的在线设备数限制与系统版本要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅链接，更新节点后选择线路，即可开始连接使用轻云加速服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_CLOSING_TITLE": "轻云加速，按需选择",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定套餐，完成订阅配置后即可体验轻云海外加速。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 适合轻量浏览与基础流媒体，3 台设备同时在线；旗舰版每月 300GB 支持 5 台设备，含 IPLC 专线游戏加速，适合多设备高频使用。",
+          "AI_FAQ_ANSWER_2": "套餐按设备数量区分：基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量时如需更多设备同时在线，建议升级至更高档位套餐。",
+          "AI_FAQ_ANSWER_3": "旗舰版与团队版采用 IPLC 专线节点，针对游戏延迟与带宽做优化；基础版使用普通线路节点池，适合日常浏览与基础流媒体场景。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中导入订阅链接，选择节点后连接。不同设备客户端操作略有差异，可参照客户端内文档完成订阅配置。",
+          "AI_FAQ_ANSWER_5": "月付与年付均可选择，年付方案价格更优，如基础版年付 ¥150/年、旗舰版年付 ¥350/年、团队版年付 ¥850/年，按期付费即可持续使用。",
+          "AI_FAQ_QUESTION_1": "轻云的套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "旗舰版和基础版线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端上配置？",
+          "AI_FAQ_QUESTION_5": "付费周期和价格是怎样的？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ningshikong.cn",
+    "host": "ningshikong.cn"
+  },
+  "file_hashes": {
+    "index.html": "1f51a4f5be7b7fad66100446b36c1e32d8401381ff15f1635da3cce1450afb96",
+    "sitemap.xml": "010037d0dbda123c8b0f26d95611e2fbbd258471258733e010cafef29cf45b90",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "14955265bed6c12ec79657fd9ae4ef8b84b8a9cd4972765ef8ce03ec4cc11d31",
+    "robots.txt": "58593a52aacd5c75b152fb52091e676b4a6478c7f980967bf089ae3027758896",
+    "1b135f26105c52d093a2f0fd5dc11238.txt": "a7a1a883f5fe37e3b001286ace1002b44e30493f3d3f5f29a659226921093536"
+  },
+  "revision": "a784b72bffff0ea193624b13c1a4370f52c1317644e8d4a2527cccda81f823d8"
+}
